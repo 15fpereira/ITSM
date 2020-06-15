@@ -122,6 +122,7 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -161,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592190461262</updated>
-      <workItem from="1592190471265" duration="2177000" />
+      <workItem from="1592190471265" duration="3555000" />
     </task>
     <servers />
   </component>
